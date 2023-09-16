@@ -1,6 +1,3 @@
-
-# 1.1 Implement a Recursive function to calculate the factorial of a given number
-
 def recur_factorial(n):  
 
    if n == 1:  
